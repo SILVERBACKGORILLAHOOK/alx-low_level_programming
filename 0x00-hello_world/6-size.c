@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - writing a script that prints the size of various
- * types on the computer it is compiled and run on
+ * main - Writing a program that prints the size of diffrent computer types
  * Return: (0)
  */
 int main(void)
