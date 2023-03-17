@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - determining if a number is positive or negative */
-/* betty style doc for function main goes there */
+/**
+ * main - entry point
+ * description: printing whether the number stored in the varible nis positive or negative.
+ * return (0) success
+*/
 int main(void)
 {
 	int n;
