@@ -3,7 +3,6 @@
  * main - Writing a program that prints the size of different computer types
  * Return: (0) when successful
  */
-
 int main(void)
 {
 	printf("size of a chart: %lu byte(s)\n", sizeof(char));
