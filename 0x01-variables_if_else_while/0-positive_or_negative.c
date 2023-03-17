@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - entry point
- * description: printing whether the number stored in the varible nis positive or negative.
+ * printing whether the number stored in the varible nis positive or negative.
  * return (0) success
 */
 int main(void)
