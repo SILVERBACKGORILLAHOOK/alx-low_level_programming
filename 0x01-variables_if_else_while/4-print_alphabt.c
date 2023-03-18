@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main 
- * description: Write a program that prints the alphabet in lowercase, followed by a new line
+ * main
+ * Print all the letters except q and e, followed \n
  * return: (0) success
  */
-int main()
+int main(void)
 {
 	char c;
 
