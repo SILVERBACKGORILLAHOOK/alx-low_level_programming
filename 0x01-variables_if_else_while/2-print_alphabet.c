@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - print a the alphabet in lowercase, followed by a new line
- * description: without using (printf, puts, etc…)
+ * main - entry point
+ * description: print a the alphabet in lowercase, followed by a new line
+ * return (0) success
  */
 
 int main(void)
@@ -15,4 +16,5 @@ int main(void)
 		c = c + 1;
 	}
 	putchar('\n');
+	return(0);
 }

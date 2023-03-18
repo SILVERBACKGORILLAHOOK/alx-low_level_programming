@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - a script that writes a alphabets lower and upper case followed by \n.
- * more info; using only putchar function
+ * main - entry point
+ * description a script that writes a alphabets lower and upper case followed by \n.
  * Return: (0) success
  */
 int main(void)
@@ -21,4 +21,5 @@ int main(void)
 		c++;
 	}
 	putchar('\n');
+	return (0);
 }
