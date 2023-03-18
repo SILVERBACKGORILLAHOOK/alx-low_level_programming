@@ -4,7 +4,6 @@
  * description: print a the alphabet in lowercase, followed by a new line
  * return (0) success
  */
-
 int main(void)
 {
 	char c;

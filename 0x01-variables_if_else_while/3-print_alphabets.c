@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry point
- * description a script that writes a alphabets lower and upper case followed by \n.
+ * a script that writes a alphabets lower and upper case followed by \n.
  * Return: (0) success
  */
 int main(void)
