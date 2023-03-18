@@ -4,7 +4,7 @@
  * description: without using (printf, puts, etc…)
  */
 
-int main()
+int main(void)
 {
 	char c;
 
