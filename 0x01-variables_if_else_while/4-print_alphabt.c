@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main
+ * main: entry point
  * Print all the letters except q and e, followed \n
  * return: (0) success
  */
@@ -16,4 +16,5 @@ int main(void)
 		c++;
 	}
 	putchar('\n');
+	return (0);
 }
