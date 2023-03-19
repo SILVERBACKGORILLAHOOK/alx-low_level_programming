@@ -4,7 +4,7 @@
  * description: prints all single digit numbers of base 10 starting from 0.
  * return(0) success
  */
-int main()
+int main(void)
 {
 	int n;
 
